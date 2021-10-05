@@ -1,0 +1,118 @@
+@media(max-width:576px) and (min-width:320px){
+    .top_header {
+        display: none;
+    }
+    .count_item h6 {
+        font-size: 14px;
+    }
+    .second_banner h1 {
+        font-size: 12px;
+        text-align: center;
+    }
+    .second_banner span {
+        margin: auto;
+    }
+    .second_banner ul li h3 {
+        text-align: center;
+    }
+    .second_banner ul li p {
+        font-size: 14px;
+        margin-left: 28px;
+    }
+    .box {
+        width: 50px;
+        height: 50px;
+        margin-left: 10px;
+    }
+    .count_part h5 {
+        font-size: 13px;
+        margin-top: 7px;
+    }
+    .count_part h4 {
+        font-size: 12px;
+    }
+    .safe {
+        top: 9%;
+        left: 11%;
+        transform: translate(-11%, -9%);
+    }
+    .phone {
+        top: 68%;
+        left: 12%;
+        transform: translate(-12%, -68%);
+    }
+    .wallet {
+    left: 14%;
+    bottom: -28%;
+    transform: translate(-14%, -28%);
+
+    }
+    .bitcoin_chart img {
+        width: 64%;
+    }
+    .expart {
+        top: 11%;
+        left: 87%;
+        transform: translate(-87%, -11%);
+    }
+    .excancg {
+        top: 71%;
+        left: 88%;
+        transform: translate(-88%, -71%);
+    }
+    .buyes {
+        left: 88%;
+        bottom: -33%;
+        transform: translate(-88%, -33%);
+    }
+    .safe p, .phone p, .wallet p, .expart p, .excancg p, .buyes p {
+        font-size: 7px;
+    }
+    .trem_expart h1 {
+        margin-top: 50px;
+        font-size: 22px;
+    }
+    .trem_expart p {
+        font-size: 14px;
+        
+        
+    }
+    .content h1 {
+        font-size: 22px;
+    }
+    .blog p {
+        font-size: 14px;
+    }
+    .blog_item h3 {
+        font-size: 13px;
+    }
+    .blog_item p {
+        font-size: 12px;
+    }
+    .investors h1 {
+        font-size: 18px;
+        
+    }
+    .investors p {
+        font-size: 11px;
+        text-align: center;
+        
+    }
+    .item_pic i {
+        display: none;
+    }
+    .iphone_6 img {
+        display: none;
+    }
+    .blog_item i {
+       display: none;
+        
+    }
+}
+@media(max-width:768px) and (min-width:576px){
+    .item_pic i {
+        padding: 15px 15px;
+        bottom: -15px;
+        right: 62px;
+    }
+}
